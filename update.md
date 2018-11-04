@@ -1,7 +1,4 @@
-apt update
-apt upgrade
-apt autoremove
-
-
-## “The following packages have been kept back:”
-apt-get --with-new-pkgs upgrade
++ `apt update`
++ `apt upgrade`
++ `apt autoremove`
++ `apt-get --with-new-pkgs upgrade` -- сообщение *The following packages have been kept back*
