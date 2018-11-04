@@ -1,4 +1,4 @@
-## Обновление
+## Обновление KaliLinux
 + `# apt update && apt -y full-upgrade` -- обновить до последней версии
 
 Убедитесь что у вас стоит в sources.list
